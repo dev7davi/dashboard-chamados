@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+planilha_chamados.xlsx
+planilha_real_*.xlsx

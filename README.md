@@ -34,8 +34,8 @@ pip install -r requirements.txt
 streamlit run copy_dashboard_chamados.py
 ```
 
-4. Acesse no navegador: http://localhost:8501
-5. Faça upload da sua planilha Excel com a coluna `definicao_area`
+4. Acesse no navegador: https://dashboard-chamados-ffbm3zkednyutkshdsibc3.streamlit.app/
+5. Baixe a planilha_exemplo_chamados.xlsx para testar o dashboard
 
 ## Estrutura esperada da planilha
 
